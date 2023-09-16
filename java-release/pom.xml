@@ -29,7 +29,7 @@
     </properties>
 
     <scm>
-        <url>http://github.com/languagetool-org/dutch-dict-tools</url>
+        <url>http://github.com/languagetool-org/dutch-pos-dict</url>
     </scm>
 
     <distributionManagement>
