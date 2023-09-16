@@ -1,2 +1,2 @@
 # dutch-post-dict
-part-of-speech data for Dutch
+Part-of-speech and spelling data for Dutch
